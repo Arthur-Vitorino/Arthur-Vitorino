@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Arthur and I'm a Software Engineer, from Brazil </h2>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <div align="left">
